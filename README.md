@@ -2,6 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently working on a project related to Frontend development and Machine Learning<br>👯 I’m looking to collaborate on Frontend projects.<br>🌱 I’m currently learning Full Stack.<br>🏎️ I'm an automobile and motorsport enthusiast.<br>
 <br>
+<br>
+<br>
 
 <p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720419357/Cafe_Racer_Style_qz0gbg.jpg" alt="cover page" width='450' height='500' /></p>
 </br>
