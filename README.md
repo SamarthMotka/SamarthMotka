@@ -21,11 +21,8 @@
 
 # 📊 GitHub Stats:
 
-<div align='center'>
-(https://github-readme-streak-stats.herokuapp.com/?user=SamarthMotka&theme=blueberry&hide_border=false)<br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthMotka&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamarthMotka&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamarthMotka&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
