@@ -11,6 +11,8 @@
 <p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720419357/Cafe_Racer_Style_qz0gbg.jpg" alt="cover page" width='450' height='500' /></p>
 </br>
 
+<a href='https://samarthmotka.github.io/MotkaSamarth/'> Portfolio </a>
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/752166581366423652) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-motka-4abb221b3/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16116202/u-33)
