@@ -1,6 +1,6 @@
 <h1 align='center'>Hello I'm Samarth Motka </h1>
 
-<p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720416379/african-american-web-developer-flat-line-black-white-vector-character-editable-outline-half-body-man-working-laptop-simple-cartoon-isolated-spot-illustration-web-graphic-design_151150-17618-removebg-p_v0ia1i.png" alt="man-illustration"></p>
+<p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720416379/african-american-web-developer-flat-line-black-white-vector-character-editable-outline-half-body-man-working-laptop-simple-cartoon-isolated-spot-illustration-web-graphic-design_151150-17618-removebg-p_v0ia1i.png" alt="man-illustration" width="210" height="200" ></p>
 💫 About Me:
 <br>
 🔭 I’m currently working on a project related to Frontend development and Machine Learning<br>👯 I’m looking to collaborate on Frontend projects.<br>🌱 I’m currently learning Full Stack.<br>🏎️ I'm an automobile and motorsport enthusiast.<br>
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720419357/Cafe_Racer_Style_qz0gbg.jpg" alt="cover page" width='450' height='500' /></p>
+<p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720419357/Cafe_Racer_Style_qz0gbg.jpg" alt="cover page" width='250' height='300' /></p>
 </br>
 
 <a href="https://samarthmotka.github.io/MotkaSamarth/" style="text-decoration: none; color: white;">Portfolio v2.0</a>
