@@ -11,10 +11,8 @@
 <p align="center"><img src="https://res.cloudinary.com/da5crwlqh/image/upload/v1720419357/Cafe_Racer_Style_qz0gbg.jpg" alt="cover page" width='250' height='300' /></p>
 </br>
 
-<a href="https://samarthmotka.github.io/MotkaSamarth/" style="text-decoration: none; color: white;">Portfolio v2.0</a>
+<a href="https://samarthmotka.github.io/MotkaSamarth/" style="text-decoration: none; color: white;">Portfolio</a>
 
-<br>
-<a href="https://samarthmotka.netlify.app/" style="text-decoration: none; color: white;">Portfolio v1.0</a>
 
 
 
