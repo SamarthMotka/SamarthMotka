@@ -22,7 +22,7 @@
 
 ---
 
-[![](![Visitor Count](https://profile-counter.glitch.me/{SamarthMotka}/count.svg))
+![Visitor Count](https://profile-counter.glitch.me/{SamarthMotka}/count.svg)
 
 # 💻 Tech Stack:
 
